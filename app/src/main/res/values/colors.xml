@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="colorPrimary">#FFEA2E</color>
+<color name="colorPrimaryDark">#00574B</color>
+<color name="colorAccent">#D81B60</color>
+<color name="orange">#FF9800</color>
+<color name="green">#006400</color>
+    <color name="defek">#CBCFCF</color>
+    <color name="defdo">#B2B5B6</color>
+    <color name="defteen">#CCCECD</color>
+
+</resources>
